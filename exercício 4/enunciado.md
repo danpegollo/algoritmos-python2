@@ -11,5 +11,3 @@ Casos de teste (vídeos no buffer → saída):
 10 -> 0 Instâncias G, 1 Instância M, 0 Instâncias P. Custo: R$ 20.
 
 108 -> 1 Instância G, 0 Instâncias M, 8 Instâncias P. Custo: R$ 190.
-
-
